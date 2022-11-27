@@ -6,4 +6,3 @@ public class Proyecto1 {
 		System.out.println("hello mundo");
 	}
 }
-}
