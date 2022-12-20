@@ -5,5 +5,4 @@ public class ProjectoEjemplo {
 		// TODO Auto-generated method stub
 		System.out.println("Algo?");
 	}
-
 }
